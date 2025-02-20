@@ -14,6 +14,8 @@ Implemented K-Means clustering to group customers into 5 distinct segments.
 
 Visualized clusters using scatter plots to interpret customer behavior.
 
-# Results: Identified high-value customer segments (e.g., high-income, high-spending customers) and provided actionable insights for personalized marketing campaigns.
+# Results: 
+Identified high-value customer segments (e.g., high-income, high-spending customers) and provided actionable insights for personalized marketing campaigns.
 
-# Impact: Demonstrated the ability to leverage data-driven approaches to solve real-world business problems.
+# Impact: 
+Demonstrated the ability to leverage data-driven approaches to solve real-world business problems.
