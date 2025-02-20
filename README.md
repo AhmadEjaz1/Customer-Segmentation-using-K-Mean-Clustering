@@ -15,10 +15,10 @@ Implemented K-Means clustering to group customers into 5 distinct segments.
 Visualized clusters using scatter plots to interpret customer behavior.
 
 # Results: 
-
-
-
 Identified high-value customer segments (e.g., high-income, high-spending customers) and provided actionable insights for personalized marketing campaigns.
+
+
+
 ![image](https://github.com/user-attachments/assets/47ae1b5b-0a22-4f8b-9d91-5ff3c7063e92)
 ![image](https://github.com/user-attachments/assets/30826715-100e-4cc7-a46a-6a9610d2f503)
 
